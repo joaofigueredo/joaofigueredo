@@ -1,17 +1,16 @@
 # Olá me chamo João Carlos
 ## Bem vindo ao meu perfil 👋
 
-- 🎓 Atualmente estudo ciencia da computação
-- 🔭 Atualmente estou trabalhando como estágiario na prefeitura de Sobral/CE
-- 🌱 Atualmente estou aprendendo C#(Windows Forms)
-- 👯 Estou procurando uma oportunidade para mostrar as habilidades que estudo
+- 🎓 Atualmente estudo Ciência da Computação na UVA(Universidade Estadual Vale do Acaraú)
+- 👷 Atualmente estou trabalhando como estágiario na prefeitura de Sobral/CE
+- 🚶 Estou procurando uma oportunidade para mostrar as habilidades que estudo
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 
 # O que estou aprendendo
-<img loading="lazy" src="https:/https://cdn.iconscout.com/icon/free/png-256/free-microsoft-forms-2081996-1756309.png" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> 
 
 # Contatos
 <div>
