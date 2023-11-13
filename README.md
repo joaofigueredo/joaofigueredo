@@ -10,7 +10,7 @@
 
 
 # O que estou aprendendo
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://img.icons8.com/color/48/microsoft-forms-2019.png" width="40" height="40"/> 
 
 # Contatos
 <div>
