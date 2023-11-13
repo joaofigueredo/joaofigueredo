@@ -1,8 +1,8 @@
 # Olá me chamo João Carlos
 ## Bem vindo ao meu perfil 👋
 
-- 🎓 Atualmente estudo Ciência da Computação na UVA(Universidade Estadual Vale do Acaraú)
-- 👷 Atualmente estou trabalhando como estágiario na prefeitura de Sobral/CE
+- 🎓 Estudo Ciência da Computação na UVA(Universidade Estadual Vale do Acaraú)
+- 👷 Estou trabalhando como estágiario na prefeitura de Sobral/CE
 - 🚶 Estou procurando uma oportunidade para mostrar as habilidades que estudo
 
 ## Ferramentas e Tecnologias
