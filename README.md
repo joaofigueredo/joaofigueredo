@@ -2,8 +2,6 @@
 ## Bem vindo ao meu perfil 👋
 
 - 🎓 Estudo Ciência da Computação na UVA(Universidade Estadual Vale do Acaraú)
-- 👷 Estou trabalhando como estágiario na prefeitura de Sobral/CE
-- 🚶 Procuro uma oportunidade para mostrar as habilidades que estudo
 
 ## Ferramentas e Tecnologias 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
